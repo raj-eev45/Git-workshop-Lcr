@@ -1,2 +1,2 @@
 # Git-workshop-Lcr
-Workshop conducted by Cloudfactory
+Workshop conducted by Cloudfactory ROjal
